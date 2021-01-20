@@ -7,3 +7,8 @@ browser = webdriver.Safari(executable_path = '/usr/bin/safaridriver')
 browser.get('https://www.spareroom.com')
 time.sleep(5)
 browser.quit()
+
+a = 'hello'
+
+print(a)
+
